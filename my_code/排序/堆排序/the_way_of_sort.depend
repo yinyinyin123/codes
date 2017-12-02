@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481365309 source:c:\users\yinyin\desktop\the_way_of_sort\main.cpp
+	<iostream>
+	<malloc.h>
+

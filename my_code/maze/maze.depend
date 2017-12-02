@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484577068 source:c:\users\yinyin\desktop\maze\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

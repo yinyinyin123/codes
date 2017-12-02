@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1482065081 source:c:\users\yinyin\desktop\exercise\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

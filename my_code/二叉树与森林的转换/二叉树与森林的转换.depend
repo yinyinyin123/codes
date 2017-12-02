@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489071787 source:c:\users\yinyin\desktop\二叉树与森林的转换\main.cpp
+	<iostream>
+	<malloc.h>
+

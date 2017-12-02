@@ -1,0 +1,19 @@
+
+
+
+a b d h # # i # # e # j # # c f k # # # g # # //œ»–Ú¥Ê¥¢
+
+                                        a
+                  
+                                   b         c
+
+                               d      e   f     g
+
+                            h   i   # j k #   #  #
+                                      ##
+      
+
+h d i b e j a k f c g 
+h i d j e b k f g c a 
+a b d h i e j c f k g
+c

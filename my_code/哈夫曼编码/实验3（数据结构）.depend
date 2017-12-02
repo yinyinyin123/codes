@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479395645 source:d:\实验3（数据结构）\main.cpp
+	<iostream>
+	<fstream>
+

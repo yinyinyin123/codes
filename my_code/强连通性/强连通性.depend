@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490019890 source:c:\users\yinyin\desktop\强连通性\main.cpp
+	<iostream>
+	<malloc.h>
+

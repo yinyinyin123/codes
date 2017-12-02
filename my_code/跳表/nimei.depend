@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488533664 source:c:\users\founder\desktop\nimei\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<malloc.h>
+

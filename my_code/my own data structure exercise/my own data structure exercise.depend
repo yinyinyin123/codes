@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480832620 source:c:\users\yinyin\desktop\my own data structure exercise\main.cpp
+	<iostream>
+	<malloc.h>
+	<fstream>
+

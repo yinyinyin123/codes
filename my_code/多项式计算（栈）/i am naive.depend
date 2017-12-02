@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484391561 source:c:\users\yinyin\desktop\i am naive\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
